@@ -1,0 +1,4 @@
+.container { text-align: center; }
+#Carousel1 { background-color: red; } 
+#Carousel1 img { height: 620px; margin-top: 35px; }
+.carousel-inner p { margin-bottom: 15px; margin-top: 15px; color : white; font-size: 20px; }
